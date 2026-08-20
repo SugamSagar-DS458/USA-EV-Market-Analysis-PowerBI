@@ -22,7 +22,7 @@ This repository contains an end-to-end Power BI data analysis project focused on
 ## 🚀 How to Use
 1. Clone this repository to your local machine.
 2. Ensure you have the latest version of [Power BI Desktop](https://powerbi.microsoft.com/desktop/) installed.
-3. Open the `Electric Vehicles Dashboard(PowerBi).pbix` file.
+3. [Open File](https://github.com/SugamSagar-DS458/USA-EV-Market-Analysis-PowerBI/blob/main/Electric%20Vehicles%20Dashboard(PowerBi).pbix).
 4. Interact with the filters and visual cross-highlighting to explore the EV data.
 
 ---

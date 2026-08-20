@@ -16,7 +16,7 @@ This repository contains an end-to-end Power BI data analysis project focused on
 *   **Visualization:** Interactive charts, dynamic slicers, and a clean, user-centric UX/UI design
 
 ## 📂 Repository Contents
-*   `Electric Vehicles Dashboard(PowerBi).pbix`: The core Power BI project file containing the data model, DAX measures, and interactive report pages.
+* The core Power BI project file containing the data model, DAX measures, and interactive report pages.
 * ![Dashboard Preview]([Link-to-my-image-here](https://github.com/SugamSagar-DS458/USA-EV-Market-Analysis-PowerBI/blob/main/Screenshot%202026-08-03%20233636.png)
 
 ## 🚀 How to Use
